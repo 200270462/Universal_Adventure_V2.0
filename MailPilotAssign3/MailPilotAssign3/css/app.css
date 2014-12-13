@@ -1,0 +1,12 @@
+﻿#canvas {
+    border:double 1px black;
+    position: absolute;
+    width: 800px;
+    min-width: 320px;
+    max-width: 100%;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
